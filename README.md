@@ -6,6 +6,7 @@
 |---------------|--------------------------------------------|
 | Alex F. Bannach | [Respositório](https://github.com/AlexBannach) |
 | Arthur Felipe Schmitz | [Repositório](https://github.com/ArtSchmitz) |
+| Cauã Kath | [Repositório](https://github.com/CauaKath) |
 | Eduardo F. Mann | [Repositório](https://github.com/Imdudumann) |
 | Emerlly | [Repositório](https://github.com/emerlly) |
 | Lucas Eduardo Sasse | [Repositório](https://github.com/lucassasse) |
